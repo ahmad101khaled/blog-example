@@ -67,7 +67,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contact us
                       </Link>
                     </li>
                   </ul>
